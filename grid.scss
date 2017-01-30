@@ -18,6 +18,14 @@ $margin-col: 2px;
     background: #ccc;
 }
 
+
+/***
+    
+    exemplo
+
+*/
+
 .element {
+    //ELEMENTO COM 8 COLUNAS
     @include col(8);
 }
